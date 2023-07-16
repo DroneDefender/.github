@@ -1,12 +1,16 @@
-## Hi there 👋
+## RadarBot
 
-<!--
+### コンセプト
 
-**Here are some ideas to get you started:**
+ドローンとAIを用いた自動化・監視ソリューション
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### メンバー
+
+- [ufo](https://github.com/ufoufo1203x) - PdM, Sales
+- [kam6ri](https://github.com/kam6ri) - Developer
+
+### プロジェクト管理
+
+- [コード](https://github.com/radar-bot/radarbot)
+- [タスク](https://github.com/orgs/radar-bot/projects/1)
+  
