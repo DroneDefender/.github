@@ -7,7 +7,6 @@
 ### メンバー
 
 - [ufo](https://github.com/ufoufo1203x) - PdM, Sales
-- [kam6ri](https://github.com/kam6ri) - Developer
 
 ### プロジェクト管理
 
